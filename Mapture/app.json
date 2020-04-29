@@ -1,4 +1,10 @@
 {
   "name": "Mapture",
-  "displayName": "Mapture"
+  "displayName": "Mapture",
+  "android" : {
+    "permissions": [
+      "CAMERA",
+      "CAMERA_ROLL",
+    ]
+  }
 }
